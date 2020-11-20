@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://liubingxie.github.io/sitemap.xml
